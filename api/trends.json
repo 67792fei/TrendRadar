@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T03:22:42.878406+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-07-25T05:01:28.439666+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 05时01分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 05时01分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 05时01分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -59,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 05时01分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -70,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 05时01分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -81,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 05时01分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -90,11 +90,24 @@
           "source": "今日头条",
           "ranks": [
             26,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 05时01分]"
+        },
+        {
+          "title": "大厂挤爆AI宠物赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 05时01分]"
         },
         {
           "title": "马光远：AI伟大不代表AI股票永远上涨",
@@ -158,7 +171,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -169,18 +182,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "大厂挤爆AI宠物赛道",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -202,7 +204,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
@@ -218,22 +220,24 @@
           "source": "知乎",
           "ranks": [
             2,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 05时01分]"
         },
         {
           "title": "伦敦证券交易所集团-理柏（LSGE Lipper）正评估美国投资级（债券）基金的每周数据流。 此前，摩根大通报告称，逾六年来最大单周资金外流数据可能存在错误。",
           "url": "https://wallstreetcn.com/livenews/3139617",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 05时01分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T21:40:00.710667+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-07-24T23:25:47.986575+08:00",
+  "total_titles_processed": 1606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI AIGC AI视频",
-      "match_count": 56,
+      "match_count": 65,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时03分 ~ 21时40分]"
+          "appearance_count": 10,
+          "time_info": "[07时03分 ~ 23时25分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时50分 ~ 21时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时50分 ~ 23时25分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 21时40分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 23时25分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -82,25 +82,26 @@
           "time_info": "[01时37分 ~ 05时12分]"
         },
         {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时50分 ~ 21时40分]"
-        },
-        {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
           "ranks": [
             17,
             15,
-            13
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时50分 ~ 23时25分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -315,6 +316,17 @@
           "time_info": "[17时50分 ~ 17时54分]"
         },
         {
+          "title": "AI还原非法坐滩的人怎么生活",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%9D%9E%E6%B3%95%E5%9D%90%E6%BB%A9%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E7%94%9F%E6%B4%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "中国AI大反超 美国还能挡多久",
           "url": "https://www.toutiao.com/trending/7665608122941050431/",
           "source": "今日头条",
@@ -346,6 +358,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "谷歌公司签署《欧盟人工智能法案》透明度行为准则。 谷歌说：该欧盟准则涉及人工智能（AI）生成内容的透明度。",
+          "url": "https://wallstreetcn.com/livenews/3139536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "OpenAI预计将大规模部署AMD Helios。",
@@ -390,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
@@ -502,6 +547,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "谷歌(GOOG.O)：欧盟关于人工智能生成内容透明度的法规，是基于2025年签署通用人工智能（GPAI）行为准则的延续。",
+          "url": "https://flash.jin10.com/detail/20260724225323034800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "AMD正式发布Helios机架级AI服务器。",
           "url": "https://wallstreetcn.com/livenews/3139003",
           "source": "华尔街见闻-快讯",
@@ -511,6 +567,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "AI重现狼牙山五壮士英雄壮举",
+          "url": "https://www.toutiao.com/trending/7666058970050183209/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "25家科技巨头联名施压特朗普：切勿全面限制开放权重AI模型",
+          "url": "https://flash.jin10.com/detail/20260724224925524800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
@@ -533,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "朋友圈开始用AI照片代替旅游照",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BC%80%E5%A7%8B%E7%94%A8AI%E7%85%A7%E7%89%87%E4%BB%A3%E6%9B%BF%E6%97%85%E6%B8%B8%E7%85%A7&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "苹果未能将所有AI语音训练诉讼案归入同一法官审理",
@@ -618,7 +707,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -654,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "7月24日，微软联合IBM、Meta、等20余家美国科技公司发表名为《开放权重与美国人工智能领导力》的公开信，呼吁开放权重AI模型。 公开信认为，1. 开放权重扩大了对 AI 经济的参与途径。 开放权重强化了市场竞争。 开放权重赋予客户更大的控制权。 开放与 AI 安全及保障。",
+          "url": "https://wallstreetcn.com/livenews/3139514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
@@ -661,6 +761,20 @@
       "keyword_group": "影视 IP 改编 漫剧 互动剧",
       "match_count": 13,
       "titles": [
+        {
+          "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
+          "url": "https://www.zhihu.com/question/2063904243388512133",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时50分 ~ 23时25分]"
+        },
         {
           "title": "圣枪要价太高,袁玺转投备胎NIP",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356442&amp;topic_name=%E5%9C%A3%E6%9E%AA%E8%A6%81%E4%BB%B7%E5%A4%AA%E9%AB%98%2C%E8%A2%81%E7%8E%BA%E8%BD%AC%E6%8A%95%E5%A4%87%E8%83%8ENIP",
@@ -678,20 +792,6 @@
           "time_info": "[01时37分 ~ 21时40分]"
         },
         {
-          "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
-          "url": "https://www.zhihu.com/question/2063904243388512133",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时50分 ~ 21时40分]"
-        },
-        {
           "title": "据华尔街日报：消息人士称，Stripe正在洽谈收购人工智能模型聚合平台OpenRouter。",
           "url": "https://flash.jin10.com/detail/20260724045621832800",
           "source": "金十数据",
@@ -701,6 +801,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "长鑫科技 IPO 助力合肥城投化债，其他省市城投平台能否效仿？",
+          "url": "https://www.zhihu.com/question/2062839135568491650",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时54分 ~ 23时25分]"
         },
         {
           "title": "菲尔兹奖得主王虹也发过NeurIPS",
@@ -714,18 +826,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时50分 ~ 19时41分]"
-        },
-        {
-          "title": "长鑫科技 IPO 助力合肥城投化债，其他省市城投平台能否效仿？",
-          "url": "https://www.zhihu.com/question/2062839135568491650",
-          "source": "知乎",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 21时40分]"
         },
         {
           "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
@@ -789,7 +889,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },

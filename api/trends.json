@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T05:01:28.439666+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-07-25T06:14:26.923310+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时14分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时14分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时14分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -59,8 +60,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时14分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时14分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -68,17 +81,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时01分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -103,11 +105,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 06时14分]"
         },
         {
           "title": "马光远：AI伟大不代表AI股票永远上涨",
@@ -221,11 +224,12 @@
           "ranks": [
             2,
             5,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时14分]"
         },
         {
           "title": "伦敦证券交易所集团-理柏（LSGE Lipper）正评估美国投资级（债券）基金的每周数据流。 此前，摩根大通报告称，逾六年来最大单周资金外流数据可能存在错误。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T14:35:43.820482+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-07-26T17:11:19.572113+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI AIGC AI视频",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -68,11 +68,12 @@
           "ranks": [
             13,
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 14时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 17时11分]"
         },
         {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
@@ -176,6 +177,18 @@
           "time_info": "[05时55分 ~ 07时59分]"
         },
         {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 17时11分]"
+        },
+        {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
           "url": "https://flash.jin10.com/detail/20260726031905539800",
           "source": "金十数据",
@@ -190,18 +203,6 @@
           "time_info": "[04时49分 ~ 07时59分]"
         },
         {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时35分]"
-        },
-        {
           "title": "AI的回答让我重新理解活着",
           "url": "https://www.douyin.com/hot/2584567",
           "source": "抖音",
@@ -210,8 +211,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 17时11分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 17时11分]"
         },
         {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
@@ -237,6 +250,28 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
+          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
+          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 17时11分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 17时11分]"
+        },
+        {
           "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
           "url": "https://www.zhihu.com/question/2064306906437571115",
           "source": "知乎",
@@ -260,37 +295,15 @@
           "time_info": "[07时59分 ~ 14时35分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
+          "title": "AI演员首次直播破次元",
+          "url": "https://www.douyin.com/hot/2585503",
+          "source": "抖音",
           "ranks": [
-            10
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
-          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 17时11分]"
         },
         {
           "title": "马斯克说未来中国极可能成为AI领导者",
@@ -299,7 +312,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -321,9 +334,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "SK崔泰源：韩国需转型为“AI原生”国家",
@@ -343,9 +378,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "严浩翔对AI写rap词的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%B9AI%E5%86%99rap%E8%AF%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "OpenAI产品负责人Tibo：ChatGPT Work的活跃用户数量正式超越Codex。",
@@ -354,27 +400,38 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
         {
-          "title": "AI演员首次直播破次元",
-          "url": "https://www.douyin.com/hot/2585503",
-          "source": "抖音",
+          "title": "AI坑惨手机圈",
+          "url": "https://www.toutiao.com/trending/7666708037893099071/",
+          "source": "今日头条",
           "ranks": [
-            28
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "17时11分"
         }
       ]
     },
     {
       "keyword_group": "影视 IP 改编 漫剧 互动剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "NIP战胜LNG LPL第三赛段",
+          "url": "https://search.bilibili.com/all?keyword=LNG%20NIP",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
         {
           "title": "VIP·9折赠交易认知高定礼盒！",
           "url": "https://flash.jin10.com/detail/20260725204024078800",
@@ -414,6 +471,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时33分 ~ 14时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "剧本 编剧 制作 版权",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马嘉祺预告里送的花是自己亲手制作的",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E9%A2%84%E5%91%8A%E9%87%8C%E9%80%81%E7%9A%84%E8%8A%B1%E6%98%AF%E8%87%AA%E5%B7%B1%E4%BA%B2%E6%89%8B%E5%88%B6%E4%BD%9C%E7%9A%84%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         }
       ]
     }

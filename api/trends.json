@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-28T17:36:18.294787+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-07-28T19:57:04.614663+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI AIGC AI视频",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时07分 ~ 19时57分]"
+        },
         {
           "title": "国内首部AI长片首播",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 07时00分]"
-        },
-        {
-          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3777993",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 17时36分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时42分 ~ 08时07分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时57分]"
         },
         {
           "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
@@ -176,7 +187,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -193,15 +204,17 @@
           "time_info": "[12时01分 ~ 14时34分]"
         },
         {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            9,
+            19,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 19时57分]"
         },
         {
           "title": "佛得角门将签约泪洒现场？图是AI的",
@@ -239,16 +252,28 @@
           "time_info": "[06时59分 ~ 12时02分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
           "ranks": [
             9,
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时24分]"
+          "time_info": "[17时36分 ~ 19时57分]"
+        },
+        {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时57分]"
         },
         {
           "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
@@ -260,6 +285,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 05时09分]"
+        },
+        {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
@@ -293,6 +329,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 01时43分]"
+        },
+        {
+          "title": "抖火杯AI番外大电影",
+          "url": "https://www.douyin.com/hot/2588435",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "Anthropic澄清立场：从未主张禁止开放权重AI模型",
@@ -363,35 +410,13 @@
           "time_info": "05时09分"
         },
         {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "电影《大空头》原型：任何一家科技巨头削减AI支出，股市将直线下跌！",
           "url": "https://www.cls.cn/detail/2438626",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -402,7 +427,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -533,7 +558,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         }
@@ -541,7 +566,7 @@
     },
     {
       "keyword_group": "影视 IP 改编 漫剧 互动剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "我国启动人工智能大模型IPv6能力提升专项行动",
@@ -549,11 +574,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 19时57分]"
+        },
+        {
+          "title": "从《八仙！》上映说起，为何孙悟空在影视作品中总是正义的英雄，二郎神杨戬有时候当正派，有时候当反派？",
+          "url": "https://www.zhihu.com/question/2063731725264499456",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时34分 ~ 17时36分]"
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "影视寒冬哥哥们伙食倒是迎春了",

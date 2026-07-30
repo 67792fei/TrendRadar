@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T13:39:01.123227+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-30T16:22:31.131320+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI AIGC AI视频",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 13时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 16时22分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 13时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 16时22分]"
         },
         {
           "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
@@ -40,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 16时22分]"
         },
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -49,11 +51,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 16时22分]"
+        },
+        {
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 16时22分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -79,6 +94,17 @@
           "time_info": "[00时20分 ~ 10时07分]"
         },
         {
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "疫情后最大抛售潮！散户不再抄底，AI存储板块遭遇集中卖出",
           "url": "https://flash.jin10.com/detail/20260730094143084800",
           "source": "金十数据",
@@ -88,18 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时39分]"
         },
         {
           "title": "xAI：Grok 4.5已在Grok Build中发布，所有套餐均可在Cursor上使用。",
@@ -122,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "美股盘前，存储概念股持续走低，美光科技跌超2%，SK海力士跌3.5%；Meta Platforms下跌超8%，公司营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低；微软盘前上涨7%，上季业绩强劲，云收入增超40%，资本支出低于预期；高通盘前跌超5%，Q3财季净利润同比下滑25%，上调产品售价并给出疲软业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3142278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -184,6 +209,17 @@
           "time_info": "[00时20分 ~ 02时06分]"
         },
         {
+          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
+          "url": "https://wallstreetcn.com/articles/3778220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时22分]"
+        },
+        {
           "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
           "url": "https://wallstreetcn.com/articles/3778137",
           "source": "华尔街见闻",
@@ -193,17 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
-          "url": "https://wallstreetcn.com/articles/3778220",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
         },
         {
           "title": "国内首次 电视台播了AI剧",
@@ -239,6 +264,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "SpaceXAI：8月5日，Grok-Voice-Latest将从Grok-Voice-Think-Fast-1.0升级至Grok-Voice-Think-Fast-2.0。",
           "url": "https://flash.jin10.com/detail/20260730014637275800",
           "source": "金十数据",
@@ -270,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
+          "url": "https://www.cls.cn/detail/2441092",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "xAI：推出Grok 4.5。",
@@ -316,6 +363,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "AI 焚书",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E7%84%9A%E4%B9%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "卡特彼勒因AI退潮及Baird对数据中心的警告而暴跌",
           "url": "https://wallstreetcn.com/livenews/3141906",
           "source": "华尔街见闻-快讯",
@@ -341,7 +399,7 @@
     },
     {
       "keyword_group": "影视 IP 改编 漫剧 互动剧",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -349,11 +407,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 13时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 16时22分]"
         },
         {
           "title": "孙悟空客串了很多影视剧，为什么总是被用来救场？",
@@ -390,6 +449,17 @@
           "time_info": "[02时05分 ~ 02时06分]"
         },
         {
+          "title": "NIP vs WBG LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=NIP%20WBG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "影视飓风发十周年激励金",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%8F%91%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BF%80%E5%8A%B1%E9%87%91%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -399,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "影视飓风向全员发放十周年激励金",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%90%91%E5%85%A8%E5%91%98%E5%8F%91%E6%94%BE%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BF%80%E5%8A%B1%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "墨式烤肉（Chipotle，CMG）二季度营收33.5亿美元，分析师预期33.3亿美元。 二季度同店销售增长2.2%，分析师预期增长1.33%。 维持全年新开门店预期在350-370家，分析师预期352家。",

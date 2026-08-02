@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T22:28:34.831577+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-08-02T23:59:23.779141+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -62,6 +62,20 @@
           "time_info": "[06时54分 ~ 20时02分]"
         },
         {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时55分 ~ 23时59分]"
+        },
+        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -81,11 +95,12 @@
             10,
             12,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时59分 ~ 22时28分]"
+          "appearance_count": 15,
+          "time_info": "[01时59分 ~ 23时59分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -102,6 +117,20 @@
           "time_info": "[00时05分 ~ 07时56分]"
         },
         {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时55分 ~ 23时59分]"
+        },
+        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
@@ -112,22 +141,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时05分 ~ 22时28分]"
-        },
-        {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            5,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时55分 ~ 22时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时05分 ~ 23时59分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -143,19 +158,6 @@
           "time_info": "[00时05分 ~ 16时20分]"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 22时28分]"
-        },
-        {
           "title": "中国AI大模型的优势在哪里",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
           "source": "百度热搜",
@@ -165,6 +167,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时19分 ~ 20时02分]"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 23时59分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -190,19 +206,6 @@
           "time_info": "10时31分"
         },
         {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 22时28分]"
-        },
-        {
           "title": "美两家AI巨头承认自家大模型“失控”",
           "url": "https://www.toutiao.com/trending/7668948314036899378/",
           "source": "今日头条",
@@ -222,11 +225,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时59分]"
+        },
+        {
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 23时59分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -241,17 +258,15 @@
           "time_info": "[10时31分 ~ 16时20分]"
         },
         {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 22时28分]"
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时59分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -289,15 +304,15 @@
           "time_info": "[16时19分 ~ 16时20分]"
         },
         {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时59分]"
         },
         {
           "title": "美股这个财报季盈利增长“超预期”，科技巨头“资本开支与AI回报”双涨",
@@ -344,17 +359,6 @@
           "time_info": "13时55分"
         },
         {
-          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "陆毅鲍蕾看女儿做的AI生日短片",
           "url": "https://www.douyin.com/hot/2594728",
           "source": "抖音",
@@ -384,6 +388,18 @@
           "time_info": "[00时05分 ~ 07时56分]"
         },
         {
+          "title": "为什么影视剧的审讯环节里经常有犯人问警察要烟抽，警察给了烟后他们就交代案情的桥段？",
+          "url": "https://www.zhihu.com/question/2014369505015538447",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 23时59分]"
+        },
+        {
           "title": "Viper 中文好是因为太想赢了",
           "url": "https://search.bilibili.com/all?keyword=Viper%20%E4%B8%AD%E6%96%87%E5%A5%BD%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%AA%E6%83%B3%E8%B5%A2%E4%BA%86",
           "source": "bilibili 热搜",
@@ -394,18 +410,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时55分 ~ 10时31分]"
-        },
-        {
-          "title": "为什么影视剧的审讯环节里经常有犯人问警察要烟抽，警察给了烟后他们就交代案情的桥段？",
-          "url": "https://www.zhihu.com/question/2014369505015538447",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 22时28分]"
         }
       ]
     }

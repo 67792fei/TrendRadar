@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T10:45:27.494360+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-08-03T14:22:08.940701+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI AIGC AI视频",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
@@ -25,11 +25,37 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 10时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 14时22分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 14时22分]"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 14时22分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -42,17 +68,6 @@
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时06分 ~ 10时45分]"
-        },
-        {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
           "time_info": "[01时06分 ~ 10时45分]"
         },
         {
@@ -69,16 +84,15 @@
           "time_info": "[01时06分 ~ 10时45分]"
         },
         {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            20
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 10时45分]"
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -130,6 +144,29 @@
           "time_info": "[04时53分 ~ 07时57分]"
         },
         {
+          "title": "涉及中国AI，两家英媒同日发文",
+          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 14时22分]"
+        },
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 14时22分]"
+        },
+        {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
           "url": "https://www.zhihu.com/question/2066215968578204075",
           "source": "知乎",
@@ -141,26 +178,59 @@
           "time_info": "[07时57分 ~ 10时45分]"
         },
         {
-          "title": "涉及中国AI，两家英媒同日发文",
-          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
-          "source": "凤凰网",
+          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
+          "url": "https://wallstreetcn.com/articles/3778511",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
+          "url": "https://www.cls.cn/detail/2443873",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "AI应用端再爆发",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%BA%94%E7%94%A8%E7%AB%AF%E5%86%8D%E7%88%86%E5%8F%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "高盛公布8月强推股名单：AI仍是最看好板块，这家万亿美元公司更是超预期",
+          "url": "https://flash.jin10.com/detail/20260803135103514800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "14时22分"
         },
         {
-          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
-          "url": "https://www.zhihu.com/question/2065724643378570793",
-          "source": "知乎",
+          "title": "A股AI应用热门股利欧股份上午涨停后开板，午后再次封板，截至发稿，涨停板上有超53万手封板，报5.13元/股，总市值为347.39亿元，成交额为68.24亿元。",
+          "url": "https://flash.jin10.com/detail/20260803134324481800",
+          "source": "金十数据",
           "ranks": [
-            20
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "14时22分"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -177,8 +247,19 @@
     },
     {
       "keyword_group": "短剧 微短剧 竖屏剧 小程序剧",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "短剧带火招聘市场 有人月薪6万元",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E5%B8%A6%E7%81%AB%E6%8B%9B%E8%81%98%E5%B8%82%E5%9C%BA+%E6%9C%89%E4%BA%BA%E6%9C%88%E8%96%AA6%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
         {
           "title": "网上爆火的AI短剧男主",
           "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%B8%8A%E7%88%86%E7%81%AB%E7%9A%84AI%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB&t=31&band_rank=16&Refer=top",
@@ -205,8 +286,19 @@
     },
     {
       "keyword_group": "影视 IP 改编 漫剧 互动剧",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "iPhone要涨价了 最高或涨1350元",
+          "url": "https://www.baidu.com/s?wd=iPhone%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86+%E6%9C%80%E9%AB%98%E6%88%96%E6%B6%A81350%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
         {
           "title": "为什么影视剧的审讯环节里经常有犯人问警察要烟抽，警察给了烟后他们就交代案情的桥段？",
           "url": "https://www.zhihu.com/question/2014369505015538447",
@@ -217,6 +309,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 03时06分]"
+        },
+        {
+          "title": "【数读IPO】今日1申购1上市，涉及智能穿戴概念等",
+          "url": "https://www.cls.cn/detail/2443669",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         }
       ]
     }

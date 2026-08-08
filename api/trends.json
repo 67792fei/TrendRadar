@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T13:41:16.205046+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-08-08T14:47:46.325050+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI AIGC AI视频",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -23,8 +23,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 13时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 14时47分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -64,8 +64,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 13时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时52分 ~ 14时47分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -90,8 +90,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时38分 ~ 13时41分]"
+          "appearance_count": 13,
+          "time_info": "[04时38分 ~ 14时47分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -112,11 +112,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 13时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 14时47分]"
         },
         {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
@@ -126,11 +127,24 @@
             1,
             8,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 14时47分]"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时47分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -142,18 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时41分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -169,6 +171,31 @@
           "time_info": "[06时32分 ~ 09时21分]"
         },
         {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时47分]"
+        },
+        {
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时47分]"
+        },
+        {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
           "url": "https://flash.jin10.com/detail/20260808100104329800",
           "source": "金十数据",
@@ -180,29 +207,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 13时41分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时41分]"
-        },
-        {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时41分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -238,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -316,11 +331,12 @@
           "ranks": [
             10,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 14时47分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/y_xv4lKSiuAni719pfe5I.jpg/lite\" height=\"120\"/></a>",
@@ -385,11 +401,12 @@
           "source": "微博",
           "ranks": [
             5,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时47分]"
         }
       ]
     },

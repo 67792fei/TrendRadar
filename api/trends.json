@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:37:32.619894+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-08-09T19:27:29.150174+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 19时27分]"
         },
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -80,11 +80,23 @@
             7,
             11,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时27分 ~ 17时37分]"
+          "appearance_count": 19,
+          "time_info": "[01时27分 ~ 19时27分]"
+        },
+        {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时52分 ~ 19时27分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -96,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时27分 ~ 17时37分]"
+          "appearance_count": 19,
+          "time_info": "[01时27分 ~ 19时27分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -113,17 +125,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[01时27分 ~ 17时37分]"
-        },
-        {
-          "title": "首个全国产10万卡AI超集群投用",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时52分 ~ 17时37分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -325,6 +326,19 @@
           "time_info": "[09时26分 ~ 11时40分]"
         },
         {
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时27分]"
+        },
+        {
           "title": "iPhone18Pro 涨价",
           "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -336,18 +350,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时26分 ~ 14时52分]"
-        },
-        {
-          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
-          "url": "https://www.cls.cn/detail/2449266",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时37分]"
         },
         {
           "title": "折叠屏iPhone配色",
@@ -387,11 +389,12 @@
             3,
             6,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 19时27分]"
         },
         {
           "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",

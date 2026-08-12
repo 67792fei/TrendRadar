@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T06:38:22.305976+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-08-13T07:39:08.906234+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI AIGC AI视频",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -26,41 +26,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
           "url": "https://www.cls.cn/detail/2452579",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时38分]"
-        },
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
           "url": "https://wallstreetcn.com/articles/3779299",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 07时39分]"
         },
         {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
@@ -73,8 +64,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时38分]"
+          "time_info": "[00时59分 ~ 04时42分]"
         },
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -111,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 06时38分]"
+        },
+        {
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
           "title": "SpaceXAI宣布推出Grok 4.6",
@@ -153,11 +166,12 @@
           "source": "今日头条",
           "ranks": [
             11,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 07时39分]"
         }
       ]
     }

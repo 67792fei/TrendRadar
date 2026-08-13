@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-08-14T04:40:01.239429+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-08-14T06:39:41.934962+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "影视 IP 改编 漫剧 互动剧",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "马上评｜郭德纲即兴改编是否违规，武汉文旅不妨以调查给出结论",
           "url": "https://m.thepaper.cn/newsDetail_forward_33774962",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "史上最大IPO或将易主",
           "url": "https://www.toutiao.com/trending/7673140928302940196/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "NIP登骑士之路,WBG陷入绝境",
@@ -37,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "BLG惨败,Viper四国语言道歉",
@@ -48,19 +50,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33773834",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
@@ -70,8 +73,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
+        },
+        {
+          "title": "史上最大IPO或将易主",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E6%88%96%E5%B0%86%E6%98%93%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "NIP战胜WBG LPL第三赛段",
@@ -98,18 +113,6 @@
           "time_info": "[03时03分 ~ 04时40分]"
         },
         {
-          "title": "史上最大IPO或将易主",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E6%88%96%E5%B0%86%E6%98%93%E4%B8%BB",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
-        },
-        {
           "title": "曝苹果iPhone 18搭载12GB内存",
           "url": "https://www.toutiao.com/trending/7672947112560197686/",
           "source": "今日头条",
@@ -120,6 +123,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 04时40分]"
+        },
+        {
+          "title": "Whiplash直拍",
+          "url": "https://s.weibo.com/weibo?q=Whiplash%E7%9B%B4%E6%8B%8D&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "Anthropic首席财务官克里正主导与投资者进行早期IPO沟通，目前尚未讨论估值问题。（CNBC）",
@@ -144,6 +159,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814053819730800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
           "title": "据CNBC：据消息人士透露，Anthropic首席财务官克里正主导与投资者进行早期IPO沟通，目前尚未讨论估值问题。",
           "url": "https://flash.jin10.com/detail/20260814011139162800",
           "source": "金十数据",
@@ -153,23 +179,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "Whiplash直拍",
-          "url": "https://s.weibo.com/weibo?q=Whiplash%E7%9B%B4%E6%8B%8D&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
         }
       ]
     },
     {
       "keyword_group": "AI AIGC AI视频",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -179,8 +194,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -194,37 +209,40 @@
           "time_info": "03时03分"
         },
         {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
+        },
+        {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3779354",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3779371",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -232,11 +250,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -244,11 +263,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -258,8 +278,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 06时39分]"
         },
         {
           "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -271,6 +291,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "据悉OpenAI年化营收突破400亿美元",
+          "url": "https://flash.jin10.com/detail/20260814055506381800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -301,7 +343,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         }
